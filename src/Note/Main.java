@@ -1,14 +1,12 @@
 package Note;
 
-import javax.swing.text.View;
-
 import Note.controller.NoteController;
 import Note.models.FileOperation;
 import Note.models.FileOperationImpl;
 import Note.models.NoteManager;
 import Note.models.NoteManagerImpl;
-import Note.views.NoteAdder;
-import Note.views.ViewNote;
+import Note.veiws.NoteAdder;
+import Note.veiws.ViewNote;
 
 public class Main {
     public static void main(String[] args) {
